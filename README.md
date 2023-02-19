@@ -1,4 +1,4 @@
-# LapTrinhThietBiDiDong
+# Programming project on mobile devices
 ### Project Group 
 ### Members: 
 ### 1. Nguyen Trung Thien
